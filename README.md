@@ -19,6 +19,13 @@ This was solely developed using standard libraries of Java( without using any ex
 2. SurfaceView
 3. SurfaceHolder
 4. Thread
+5. SharedPreferences
+
+# Rules
+1. All you need is to be aware of the basic snake game!
+2. Different coloured apples score different points
+3. shields save you once from dying.
+4. clocks reduce your speed for 10 secs.
 
 
 <img src="https://github.com/jatin96/simple-snake-game/blob/master/image.jpg" height="400" alt="Screenshot"/>
