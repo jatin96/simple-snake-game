@@ -7,4 +7,4 @@ Developed on the android platform using SurfaceView, Multithreading, SharedPrefe
 
 This was solely developed using standard libraries of Java( without using any external libraries or tools).
 
-![Alt text](https://github.com/jatin96/simple-snake-game/blob/master/image.jpg)
+<img src="https://github.com/jatin96/simple-snake-game/blob/master/image.jpg" height="400" alt="Screenshot"/>
